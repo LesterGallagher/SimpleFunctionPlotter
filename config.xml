@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.EchoSierraStudio.Simple_Function_Plotter" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Simple Function Plotter</name>
+    <name>Simple Function Plotter</name> 
     <description>This app let's you plot algebreic equations, plot computational expressions, solve conversions, do matrix operations, etc.            You can save the graph as a vector image (svg) and easily create a lot of graphs.</description>
     <author>Sem Postma</author>
     <access origin="*" />
